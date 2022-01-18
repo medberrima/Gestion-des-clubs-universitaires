@@ -1,0 +1,22 @@
+
+.add-event{
+  position: relative;
+}
+
+.add-event:hover{
+  background-color : rgba(235, 235, 235, 0.404) ;
+  cursor: pointer;
+}
+
+.icon-add{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%); 
+}
+
+.event{
+  background-color: yellow;
+  height: 300px ;
+  color: rgb(133, 133, 133);
+}
